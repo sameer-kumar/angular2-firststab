@@ -4,9 +4,12 @@ First stab on Angular 2 based on starter kit featuring the official Tour of Hero
 
 # Requirements
 
-* Node.js >= 6.x
-* NPM >= 5.x
+* Node.js >= 6.11.x
+* NPM >= 5.3.x
+  * npm install -g npm-windows-upgrade
+  * npm-windows-upgrade
 * Angular CLI >= 1.x
+  * npm install -g @angular/cli
 
 # Getting started
 
